@@ -6,6 +6,8 @@ public class Test {
         String []str1=str.split(" ");
         System.out.println(str1[2]);
 
+        System.out.println("bublu");
+
 
 
 
