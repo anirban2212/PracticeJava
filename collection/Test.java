@@ -5,12 +5,7 @@ public class Test {
         String str= "Total PACS: 46()";
         String []str1=str.split(" ");
         System.out.println(str1[2]);
-
         System.out.println("bublu");
-
-        System.out.println("bublu");
-        System.out.println("bublu");
-
 
 
 
