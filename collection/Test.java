@@ -8,6 +8,9 @@ public class Test {
 
         System.out.println("bublu");
 
+        System.out.println("bublu");
+        System.out.println("bublu");
+
 
 
 
