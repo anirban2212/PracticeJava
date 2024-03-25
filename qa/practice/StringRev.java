@@ -21,6 +21,13 @@ public class StringRev {
         System.out.println(str1);
         System.out.println(str2);
 
+        String s="SELENIUM";
+        //String buffer in mutable object
+
+        StringBuffer sf=new StringBuffer(s);
+        System.out.println(sf.reverse());
+
+
 
 
     }
