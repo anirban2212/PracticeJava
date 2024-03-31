@@ -10,7 +10,7 @@ public class ChildAbstractClass extends ParentAbstractClass{
         ChildAbstractClass c=new ChildAbstractClass();
         c.color();
         // we can not create object of the abtract class
-        //ParentAbstractClass p=new ParentAbstractClass();
+       // ParentAbstractClass p=new ParentAbstractClass();
     }
 
     @Override
