@@ -1,4 +1,4 @@
-package test;
+package interviews;
 
 public class Test {
 
