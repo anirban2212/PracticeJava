@@ -23,14 +23,9 @@ Return output;
 public class TFTUS_Assignment {
 
     public static void main(String[] args) {
-        solve("Rahul Sharma");
+      //  solve("Rahul Sharma");
 
-/*
-        String a="anirban nag";
-        String[]b= a.split(" ");
-        System.out.println(b[0]);
-        System.out.println(b[1]);
-*/
+
 
     }
 
